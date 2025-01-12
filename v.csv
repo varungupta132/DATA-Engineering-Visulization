@@ -1,0 +1,4 @@
+,customer_id,customer_name,phone_number,email
+0,1,John Doe,1234567890,john@example.com
+2,3,Bob Johnson,9876543210,bob@example.com
+4,5,Chris Brown,5556667777,chris@example.com
